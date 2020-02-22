@@ -1,0 +1,136 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media (min-width: 1601px)  and (max-width:  1915px) {
+
+}
+
+@media (max-width:  1600px) {
+
+}
+@media (max-width: 1440px) {
+   
+}
+
+
+/* Landscape tablets and medium desktops */
+@media  (max-width: 1024px) {
+  
+}
+@media (min-width: 768px) and (max-width:  1023px) {
+    header.main_menu {
+        position: sticky;
+        height: 100%;
+        margin-bottom: 40px;
+        background-color: #ccc;
+    }
+
+    #about-area .desc-area {
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 100%;
+        overflow: hidden;
+        padding: 50px 50px;
+    }
+    #about-area {
+        background: #efefef;
+        display: inline-block;
+        font-family: 'Dosis', sans-serif;
+    }
+    #about-area .right-desc {
+        width: 100%;
+        overflow: hidden;
+        background-color: #2b2b2b;
+    }
+    #about-area .desc-area1 {
+        padding: 50px 0 30px 30px;
+    }
+    header.main_menu {
+        position: sticky;
+        height: 100%;
+        margin-bottom: 40px;
+        background-color: #ccc;
+    }
+}
+
+/* Landscape phones and portrait tablets */
+@media (max-width: 767px) {
+    #about-area .desc-area {
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 100%;
+        overflow: hidden;
+        padding: 50px 50px;
+    }
+    #about-area {
+        background: #efefef;
+        display: inline-block;
+        font-family: 'Dosis', sans-serif;
+    }
+    #about-area .right-desc {
+        width: 100%;
+        overflow: hidden;
+        background-color: #2b2b2b;
+    }
+    #about-area .desc-area1 {
+        padding: 50px 0 30px 30px;
+    }
+    header.main_menu {
+        position: sticky;
+        height: 100%;
+        margin-bottom: 40px;
+        background-color: #ccc;
+    }
+   
+}
+
+/* Portrait phones and smaller */
+@media (max-width: 590px) {
+  
+}
+
+
+/* Portrait phones and smaller */
+@media (max-width: 576px) {
+    #about-area .desc-area {
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 100%;
+        overflow: hidden;
+        padding: 50px 50px;
+    }
+    #about-area {
+        background: #efefef;
+        display: inline-block;
+        font-family: 'Dosis', sans-serif;
+    }
+    #about-area .right-desc {
+        width: 100%;
+        overflow: hidden;
+        background-color: #2b2b2b;
+    }
+    #about-area .desc-area1 {
+        padding: 50px 0 30px 30px;
+    }
+    header.main_menu {
+        position: sticky;
+        height: 100%;
+        margin-bottom: 40px;
+        background-color: #ccc;
+    }
+    }
+
+
+
+
+
+
+
+    
+
+
+
+
